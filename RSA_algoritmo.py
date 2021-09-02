@@ -38,6 +38,7 @@ while contador < numero_evaluar :
         numeros_contenidos = numeros_contenidos +1
     contador = contador +1
 print("la llave privada es: ", llave_privada)
+print("la llave publica pq es: ", llave_publica)
+print("la llave publica e es: ", valor_de_e)
 
-    
    
